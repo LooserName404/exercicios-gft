@@ -14,7 +14,7 @@
         "outputPath": "D:\\projects\\exercicios-gft\\ExerciciosGFT\\ExercicioQuatro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\thyag\\AppData\\Roaming\\NuGet\\NuGet.Config",

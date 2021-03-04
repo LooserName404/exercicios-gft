@@ -1,3 +1,19 @@
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/bin/Debug/net5.0/ExercicioUm
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/bin/Debug/net5.0/ExercicioUm.deps.json
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/bin/Debug/net5.0/ExercicioUm.runtimeconfig.json
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/bin/Debug/net5.0/ExercicioUm.runtimeconfig.dev.json
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/bin/Debug/net5.0/ExercicioUm.dll
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/bin/Debug/net5.0/ref/ExercicioUm.dll
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/bin/Debug/net5.0/ExercicioUm.pdb
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/obj/Debug/net5.0/ExercicioUm.csprojAssemblyReference.cache
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/obj/Debug/net5.0/ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/obj/Debug/net5.0/ExercicioUm.AssemblyInfoInputs.cache
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/obj/Debug/net5.0/ExercicioUm.AssemblyInfo.cs
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/obj/Debug/net5.0/ExercicioUm.csproj.CoreCompileInputs.cache
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/obj/Debug/net5.0/ExercicioUm.dll
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/obj/Debug/net5.0/ref/ExercicioUm.dll
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/obj/Debug/net5.0/ExercicioUm.pdb
+/mnt/d/projects/exercicios-gft/ExerciciosGFT/ExercicioUm/obj/Debug/net5.0/ExercicioUm.genruntimeconfig.cache
 D:\projects\exercicios-gft\ExerciciosGFT\ExercicioUm\bin\Debug\net5.0\ExercicioUm.exe
 D:\projects\exercicios-gft\ExerciciosGFT\ExercicioUm\bin\Debug\net5.0\ExercicioUm.deps.json
 D:\projects\exercicios-gft\ExerciciosGFT\ExercicioUm\bin\Debug\net5.0\ExercicioUm.runtimeconfig.json
@@ -5,7 +21,6 @@ D:\projects\exercicios-gft\ExerciciosGFT\ExercicioUm\bin\Debug\net5.0\ExercicioU
 D:\projects\exercicios-gft\ExerciciosGFT\ExercicioUm\bin\Debug\net5.0\ExercicioUm.dll
 D:\projects\exercicios-gft\ExerciciosGFT\ExercicioUm\bin\Debug\net5.0\ref\ExercicioUm.dll
 D:\projects\exercicios-gft\ExerciciosGFT\ExercicioUm\bin\Debug\net5.0\ExercicioUm.pdb
-D:\projects\exercicios-gft\ExerciciosGFT\ExercicioUm\obj\Debug\net5.0\ExercicioUm.csprojAssemblyReference.cache
 D:\projects\exercicios-gft\ExerciciosGFT\ExercicioUm\obj\Debug\net5.0\ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
 D:\projects\exercicios-gft\ExerciciosGFT\ExercicioUm\obj\Debug\net5.0\ExercicioUm.AssemblyInfoInputs.cache
 D:\projects\exercicios-gft\ExerciciosGFT\ExercicioUm\obj\Debug\net5.0\ExercicioUm.AssemblyInfo.cs
