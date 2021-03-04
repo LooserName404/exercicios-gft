@@ -1,0 +1,16 @@
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\bin\Debug\net5.0\ExercicioTres.exe
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\bin\Debug\net5.0\ExercicioTres.deps.json
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\bin\Debug\net5.0\ExercicioTres.runtimeconfig.json
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\bin\Debug\net5.0\ExercicioTres.runtimeconfig.dev.json
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\bin\Debug\net5.0\ExercicioTres.dll
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\bin\Debug\net5.0\ref\ExercicioTres.dll
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\bin\Debug\net5.0\ExercicioTres.pdb
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\obj\Debug\net5.0\ExercicioTres.csprojAssemblyReference.cache
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\obj\Debug\net5.0\ExercicioTres.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\obj\Debug\net5.0\ExercicioTres.AssemblyInfoInputs.cache
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\obj\Debug\net5.0\ExercicioTres.AssemblyInfo.cs
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\obj\Debug\net5.0\ExercicioTres.csproj.CoreCompileInputs.cache
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\obj\Debug\net5.0\ExercicioTres.dll
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\obj\Debug\net5.0\ref\ExercicioTres.dll
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\obj\Debug\net5.0\ExercicioTres.pdb
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioTres\obj\Debug\net5.0\ExercicioTres.genruntimeconfig.cache
