@@ -1,0 +1,16 @@
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\bin\Debug\net5.0\ExercicioDois.exe
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\bin\Debug\net5.0\ExercicioDois.deps.json
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\bin\Debug\net5.0\ExercicioDois.runtimeconfig.json
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\bin\Debug\net5.0\ExercicioDois.runtimeconfig.dev.json
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\bin\Debug\net5.0\ExercicioDois.dll
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\bin\Debug\net5.0\ref\ExercicioDois.dll
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\bin\Debug\net5.0\ExercicioDois.pdb
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\obj\Debug\net5.0\ExercicioDois.csprojAssemblyReference.cache
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\obj\Debug\net5.0\ExercicioDois.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\obj\Debug\net5.0\ExercicioDois.AssemblyInfoInputs.cache
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\obj\Debug\net5.0\ExercicioDois.AssemblyInfo.cs
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\obj\Debug\net5.0\ExercicioDois.csproj.CoreCompileInputs.cache
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\obj\Debug\net5.0\ExercicioDois.dll
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\obj\Debug\net5.0\ref\ExercicioDois.dll
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\obj\Debug\net5.0\ExercicioDois.pdb
+D:\projects\exercicios-gft\ExerciciosGFT\ExercicioDois\obj\Debug\net5.0\ExercicioDois.genruntimeconfig.cache
